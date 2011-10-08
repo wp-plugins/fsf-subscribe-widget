@@ -24,3 +24,5 @@ This plugin is a widget that you can put on your blog that allows users to subsc
 
 = 1.0 =
 * First Release.
+= 1.1 =
+* More information when stable.
