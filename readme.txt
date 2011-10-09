@@ -18,7 +18,7 @@ This plugin is a widget that you can put on your blog that allows users to subsc
 
 == Screenshots ==
 
-1. What the widget looks like on my site.
+1. What the widget looks with the zeeReputation Theme.
 
 == Changelog ==
 
