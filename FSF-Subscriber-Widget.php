@@ -4,7 +4,7 @@ Plugin Name: FSF Subscribe Widget
 Plugin URI: http://sethradio.com/projects/wp-plugins
 Description: An FSF Mailing List subscribe widget for WordPress.
 Author: Seth Schroeder
-Version: 1.0
+Version: 1.1
 Author URI: http://sethradio.com/
 */
 ###########################################################################
