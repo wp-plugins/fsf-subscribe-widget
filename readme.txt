@@ -2,7 +2,7 @@
 Contributors: sethradio
 Tags: fsf,gnu,open source,subscribe,widget,free software,free
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.3
 Stable tag: 1.1
 
 Allows visitors to your blog to subscribe to the FSF mailing list.
