@@ -24,7 +24,7 @@ Author URI: http://sethradio.com/
  
 function fsfsubscribe()
 {
-  echo "<center><p><h4>Support software freedom!</h4></p><p><i>Get the new monthly newsletter</i></p><form method=\"post\" action=\"https://crm.fsf.org/civicrm/profile/create&reset=1&gid=31\"><p><input type=\"text\" onfocus=\"this.value=''\" value=\"you@example.com\" size=\"15\" name=\"email-Primary\"></p><p><input type=\"submit\" value=\"Subscribe Me\" name=\"_qf_Edit_next\" id=\"searchsubmit\"></p></form></center>";
+  echo "<center><p><h4>Support software freedom!</h4></p><p>Get the new monthly newsletter--</p><p><i>The Free Software Supporter</i></p><form method=\"post\" action=\"https://crm.fsf.org/civicrm/profile/create&reset=1&gid=31\"><p><input type=\"text\" onfocus=\"this.value=''\" value=\"you@example.com\" size=\"15\" name=\"email-Primary\"></p><p><input type=\"submit\" value=\"Subscribe Me\" name=\"_qf_Edit_next\" id=\"searchsubmit\"></p></form></center>";
 }
  
 function widget_fsf($args) {
