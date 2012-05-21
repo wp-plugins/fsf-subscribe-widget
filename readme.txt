@@ -1,8 +1,8 @@
 ===FSF Subscribe Widget ===
 Contributors: sethradio
-Tags: fsf,gnu,open source,subscribe,widget,free software,free
+Tags: fsf,subscribe,widget,free software
 Requires at least: 2.8
-Tested up to: 3.3
+Tested up to: 3.4
 Stable tag: 1.1
 
 Allows visitors to your blog to subscribe to the FSF mailing list.
@@ -25,4 +25,4 @@ This plugin is a widget that you can put on your blog that allows users to subsc
 = 1.0 =
 * First Release.
 = 1.1 =
-* Added "searchsubmit" id to button to make it look better.
+* Added "searchsubmit" id to the button to make it look better.
