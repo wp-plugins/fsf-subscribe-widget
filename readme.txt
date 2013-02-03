@@ -16,13 +16,11 @@ This plugin is a widget that you can put on your blog that allows users to subsc
 1. Install this plugin just like any other one.
 2. Drag the FSF Subscribe Widget to your sidebar.
 
-== Screenshots ==
-
-1. What the widget looks with the zeeReputation Theme.
-
 == Changelog ==
 
 = 1.0 =
 * First Release.
 = 1.1 =
 * Added "searchsubmit" id to the button to make it look better.
+= 1.2 =
+*Changed "searchsubmit" id to "block-button".
