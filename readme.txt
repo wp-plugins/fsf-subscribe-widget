@@ -9,7 +9,10 @@ Allows visitors to your blog to subscribe to the FSF mailing list.
 
 == Description ==
 
-This plugin is a widget that you can put on your blog that allows users to subscribe to the FSF mailing list. More features will come in later versions. Remember, in the wise words of Matt Mullenweg, "1.0 is the lonliest number."
+This plugin is a widget that you can put on your blog that allows users 
+to subscribe to the FSF newsletter. More features will come in later 
+versions. 
+Remember, in the wise words of Matt Mullenweg, "1.0 is the lonliest number."
 
 == Installation ==
 
