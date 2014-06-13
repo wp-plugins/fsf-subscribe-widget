@@ -2,7 +2,7 @@
 Contributors: sethradio
 Tags: fsf,subscribe,widget,free software
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.9.1
 Stable tag: 1.2
 
 Allows visitors to your blog to subscribe to the FSF mailing list.
